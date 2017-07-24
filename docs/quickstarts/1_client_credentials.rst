@@ -80,7 +80,7 @@ This will be used by your clients and APIs to download the necessary configurati
 
 Adding an API
 ^^^^^^^^^^^^^
-Next, add an API to your solution. 
+Next, add an `API` to your solution. 
 
 You can use the ASP.NET Core Web API template for that, or add the ``Microsoft.AspNetCore.Mvc`` package to your project.
 Again, we recommend you take control over the ports and use the same technique as you used
